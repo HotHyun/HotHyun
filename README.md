@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sanghyun Shin
+# HotHyun
 
 **Product Engineer · Turning early product ideas into working MVPs**
 
